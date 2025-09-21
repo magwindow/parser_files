@@ -9,6 +9,11 @@ FILES = input('Введите расширение файла: [.txt .png .mp3 �
 def search(select_files):
     """Функция - генератор, которая находит файлы в указанной директории"""
     for address, dirs, files in os.walk(input('Введите путь старта:\n')):
+
+        # Пропускать файлы той директории, в которую идет копия
+        if address == PATH_FOR_COPY:
+            continue
+
         for file in files:
             if file.endswith(select_files):
                 yield os.path.join(address, file)
