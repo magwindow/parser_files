@@ -1,0 +1,1118 @@
+'utf-8' codec can't decode byte 0xb0 in position 16: invalid start byte
+C://$Recycle.Bin\S-1-5-21-1186555113-2758091865-781698918-1001\$I0FIWR8.txt
+'utf-8' codec can't decode byte 0xb9 in position 17: invalid start byte
+C://$Recycle.Bin\S-1-5-21-1186555113-2758091865-781698918-1001\$I0MW6RF.txt
+'utf-8' codec can't decode byte 0xf4 in position 20: invalid continuation byte
+C://$Recycle.Bin\S-1-5-21-1186555113-2758091865-781698918-1001\$ID5OA59.txt
+'utf-8' codec can't decode byte 0xee in position 48: invalid continuation byte
+C://Activators\KMSAuto Lite Portable v1.2.9\readme_bg.txt
+'utf-8' codec can't decode byte 0x97 in position 126: invalid start byte
+C://Activators\KMSAuto Lite Portable v1.2.9\readme_en.txt
+'utf-8' codec can't decode byte 0xee in position 48: invalid continuation byte
+C://Activators\KMSAuto Lite Portable v1.2.9\readme_ru.txt
+'utf-8' codec can't decode byte 0xee in position 26: invalid continuation byte
+C://DeltaRiver\changelog.txt
+'utf-8' codec can't decode byte 0xb0 in position 16: invalid start byte
+C://$Recycle.Bin\S-1-5-21-1186555113-2758091865-781698918-1001\$I0FIWR8.txt
+'utf-8' codec can't decode byte 0xb9 in position 17: invalid start byte
+C://$Recycle.Bin\S-1-5-21-1186555113-2758091865-781698918-1001\$I0MW6RF.txt
+'utf-8' codec can't decode byte 0xf4 in position 20: invalid continuation byte
+C://$Recycle.Bin\S-1-5-21-1186555113-2758091865-781698918-1001\$ID5OA59.txt
+'utf-8' codec can't decode byte 0xee in position 48: invalid continuation byte
+C://Activators\KMSAuto Lite Portable v1.2.9\readme_bg.txt
+'utf-8' codec can't decode byte 0x97 in position 126: invalid start byte
+C://Activators\KMSAuto Lite Portable v1.2.9\readme_en.txt
+'utf-8' codec can't decode byte 0xee in position 48: invalid continuation byte
+C://Activators\KMSAuto Lite Portable v1.2.9\readme_ru.txt
+'utf-8' codec can't decode byte 0xee in position 26: invalid continuation byte
+C://DeltaRiver\changelog.txt
+'utf-8' codec can't decode byte 0xef in position 40: invalid continuation byte
+C://javascript_project\react-native-projects\delivery-app\client\node_modules\readline\test\fixtures\file-in-win1251.txt
+'utf-8' codec can't decode byte 0xa0 in position 6038: invalid start byte
+C://javascript_project\test-react\react-intro-project\node_modules\typescript\ThirdPartyNoticeText.txt
+'utf-8' codec can't decode byte 0xef in position 40: invalid continuation byte
+C://javascript_project\test-ReactNative\my-app\node_modules\readline\test\fixtures\file-in-win1251.txt
+'utf-8' codec can't decode byte 0xf6 in position 45: invalid start byte
+C://OpenSSL-Win32\authors.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.af.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.af_ZA.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.am.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.am_ET.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ar.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ar_AE.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ar_BH.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ar_DZ.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ar_EG.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ar_IN.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ar_IQ.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ar_JO.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ar_KW.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ar_LB.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ar_LY.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ar_MA.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ar_OM.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ar_QA.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ar_SA.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ar_SD.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ar_SY.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ar_TN.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ar_YE.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.be.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.be_BY.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.bg.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.bg_BG.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.bn.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.bn_IN.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ca.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ca_ES.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ca_ES_PREEURO.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.cs.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.cs_CZ.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.da.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.da_DK.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.de.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.de_AT.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.de_AT_PREEURO.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.de_BE.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.de_CH.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.de_DE.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.de_DE_PREEURO.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.de_LU.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.de_LU_PREEURO.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.de__PHONEBOOK.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.el.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.el_GR.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.el_GR_PREEURO.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.en.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.en_AU.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.en_BE.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.en_BE_PREEURO.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.en_BW.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.en_CA.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.en_GB.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.en_GB_EURO.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.en_HK.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.en_IE.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.en_IE_PREEURO.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.en_IN.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.en_MT.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.en_NZ.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.en_PH.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.en_SG.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.en_US.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.en_US_POSIX.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.en_VI.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.en_ZA.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.en_ZW.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.eo.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.es.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.es_AR.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.es_BO.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.es_CL.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.es_CO.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.es_CR.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.es_DO.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.es_EC.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.es_ES.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.es_ES_PREEURO.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.es_GT.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.es_HN.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.es_MX.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.es_NI.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.es_PA.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.es_PE.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.es_PR.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.es_PY.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.es_SV.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.es_US.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.es_UY.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.es_VE.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.es__TRADITIONAL.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.et.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.et_EE.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.eu.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.eu_ES.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.eu_ES_PREEURO.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.fa.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.fa_AF.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.fa_IR.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.fi.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.fi_FI.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.fi_FI_PREEURO.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.fo.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.fo_FO.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.fr.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.fr_BE.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.fr_BE_PREEURO.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.fr_CA.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.fr_CH.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.fr_FR.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.fr_FR_PREEURO.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.fr_LU.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.fr_LU_PREEURO.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ga.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ga_IE.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ga_IE_PREEURO.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.gl.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.gl_ES.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.gl_ES_PREEURO.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.gu.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.gu_IN.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.gv.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.gv_GB.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.he.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.he_IL.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.hi.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.hi_IN.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.hi__DIRECT.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.hr.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.hr_HR.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.hu.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.hu_HU.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.hy.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.hy_AM.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.hy_AM_REVISED.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.id.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.id_ID.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.is.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.is_IS.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.it.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.it_CH.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.it_IT.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.it_IT_PREEURO.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ja.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ja_JP.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ja_JP_TRADITIONAL.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.kk.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.kk_KZ.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.kl.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.kl_GL.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.kn.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.kn_IN.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ko.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.kok.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.kok_IN.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ko_KR.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.kw.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.kw_GB.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.lt.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.lt_LT.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.lv.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.lv_LV.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.mk.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.mk_MK.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.mr.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.mr_IN.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ms.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ms_BN.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ms_MY.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.mt.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.mt_MT.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.nb.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.nb_NO.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.nl.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.nl_BE.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.nl_BE_PREEURO.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.nl_NL.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.nl_NL_PREEURO.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.nn.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.nn_NO.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.om.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.om_ET.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.om_KE.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.pa.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.pa_IN.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.pl.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.pl_PL.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ps.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ps_AF.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.pt.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.pt_BR.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.pt_PT.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.pt_PT_PREEURO.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ro.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ro_RO.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ru.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ru_RU.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ru_UA.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.sh.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.sh_YU.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.sk.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.sk_SK.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.sl.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.sl_SI.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.so.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.so_DJ.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.so_ET.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.so_KE.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.so_SO.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.sq.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.sq_AL.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.sr.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.sr_YU.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.sv.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.sv_FI.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.sv_SE.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.sw.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.sw_KE.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.sw_TZ.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ta.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ta_IN.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.te.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.te_IN.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.th.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.th_TH.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.th_TH_TRADITIONAL.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ti.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ti_ER.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ti_ET.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.tr.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.tr_TR.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.uk.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.uk_UA.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.vi.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.vi_VN.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.zh.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.zh_CN.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.zh_HK.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.zh_MO.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.zh_SG.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.zh_TW.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.zh_TW_STROKE.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.zh__PINYIN.txt
+'utf-8' codec can't decode byte 0xd2 in position 2: invalid continuation byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\Dictionaries\bg_BG\README_bg_BG.txt
+'utf-8' codec can't decode byte 0xf6 in position 9: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\Dictionaries\de_CH\README_de_CH_frami.txt
+'utf-8' codec can't decode byte 0xf6 in position 391: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\Dictionaries\de_CH\README_extension_owner.txt
+'utf-8' codec can't decode byte 0xf6 in position 8: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\Dictionaries\de_CH\1996\README_de_CH_igerman98.txt
+'utf-8' codec can't decode byte 0xf6 in position 258: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\Dictionaries\de_CH\1996\README_extension_owner.txt
+'utf-8' codec can't decode byte 0xf6 in position 9: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\Dictionaries\de_CH\2006\README_de_CH_frami.txt
+'utf-8' codec can't decode byte 0xf6 in position 391: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\Dictionaries\de_CH\2006\README_extension_owner.txt
+'utf-8' codec can't decode byte 0xf6 in position 9: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\Dictionaries\de_DE\README_de_DE_frami.txt
+'utf-8' codec can't decode byte 0xf6 in position 407: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\Dictionaries\de_DE\README_extension_owner.txt
+'utf-8' codec can't decode byte 0xf6 in position 8: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\Dictionaries\de_DE\1996\README_de_DE_igerman98.txt
+'utf-8' codec can't decode byte 0xf6 in position 258: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\Dictionaries\de_DE\1996\README_extension_owner.txt
+'utf-8' codec can't decode byte 0xf6 in position 9: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\Dictionaries\de_DE\2006\README_de_DE_frami.txt
+'utf-8' codec can't decode byte 0xf6 in position 407: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\Dictionaries\de_DE\2006\README_extension_owner.txt
+'utf-8' codec can't decode byte 0xe9 in position 1595: invalid continuation byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\Dictionaries\en_GB\README.txt
+'utf-8' codec can't decode byte 0xe0 in position 378: invalid continuation byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\Dictionaries\it_IT\README_it_IT.txt
+'utf-8' codec can't decode byte 0xf0 in position 8: invalid continuation byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\Dictionaries\lv_LV\README_lv_LV.txt
+'utf-8' codec can't decode byte 0xf5 in position 163: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\Dictionaries\pt_PT\README_pt_PT.txt
+'utf-8' codec can't decode byte 0xae in position 6547: invalid start byte
+C://Program Files\Adobe\Adobe Premiere Pro CC 2019\End User License Agreement.txt
+'utf-8' codec can't decode byte 0xc1 in position 3: invalid start byte
+C://Program Files\AmneziaVPN\installerResources\org.amneziavpn.package\4.8.1.9AmneziaVPN.txt
+'utf-8' codec can't decode byte 0xb0 in position 16: invalid start byte
+C://$Recycle.Bin\S-1-5-21-1186555113-2758091865-781698918-1001\$I0FIWR8.txt
+'utf-8' codec can't decode byte 0xb9 in position 17: invalid start byte
+C://$Recycle.Bin\S-1-5-21-1186555113-2758091865-781698918-1001\$I0MW6RF.txt
+'utf-8' codec can't decode byte 0xf4 in position 20: invalid continuation byte
+C://$Recycle.Bin\S-1-5-21-1186555113-2758091865-781698918-1001\$ID5OA59.txt
+'utf-8' codec can't decode byte 0xee in position 48: invalid continuation byte
+C://Activators\KMSAuto Lite Portable v1.2.9\readme_bg.txt
+'utf-8' codec can't decode byte 0x97 in position 126: invalid start byte
+C://Activators\KMSAuto Lite Portable v1.2.9\readme_en.txt
+'utf-8' codec can't decode byte 0xee in position 48: invalid continuation byte
+C://Activators\KMSAuto Lite Portable v1.2.9\readme_ru.txt
+'utf-8' codec can't decode byte 0xee in position 26: invalid continuation byte
+C://DeltaRiver\changelog.txt
+'utf-8' codec can't decode byte 0xef in position 40: invalid continuation byte
+C://javascript_project\react-native-projects\delivery-app\client\node_modules\readline\test\fixtures\file-in-win1251.txt
+'utf-8' codec can't decode byte 0xa0 in position 6038: invalid start byte
+C://javascript_project\test-react\react-intro-project\node_modules\typescript\ThirdPartyNoticeText.txt
+'utf-8' codec can't decode byte 0xef in position 40: invalid continuation byte
+C://javascript_project\test-ReactNative\my-app\node_modules\readline\test\fixtures\file-in-win1251.txt
+'utf-8' codec can't decode byte 0xf6 in position 45: invalid start byte
+C://OpenSSL-Win32\authors.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.af.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.af_ZA.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.am.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.am_ET.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ar.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ar_AE.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ar_BH.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ar_DZ.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ar_EG.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ar_IN.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ar_IQ.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ar_JO.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ar_KW.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ar_LB.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ar_LY.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ar_MA.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ar_OM.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ar_QA.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ar_SA.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ar_SD.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ar_SY.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ar_TN.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ar_YE.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.be.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.be_BY.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.bg.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.bg_BG.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.bn.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.bn_IN.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ca.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ca_ES.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ca_ES_PREEURO.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.cs.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.cs_CZ.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.da.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.da_DK.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.de.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.de_AT.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.de_AT_PREEURO.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.de_BE.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.de_CH.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.de_DE.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.de_DE_PREEURO.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.de_LU.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.de_LU_PREEURO.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.de__PHONEBOOK.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.el.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.el_GR.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.el_GR_PREEURO.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.en.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.en_AU.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.en_BE.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.en_BE_PREEURO.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.en_BW.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.en_CA.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.en_GB.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.en_GB_EURO.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.en_HK.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.en_IE.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.en_IE_PREEURO.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.en_IN.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.en_MT.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.en_NZ.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.en_PH.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.en_SG.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.en_US.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.en_US_POSIX.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.en_VI.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.en_ZA.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.en_ZW.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.eo.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.es.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.es_AR.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.es_BO.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.es_CL.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.es_CO.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.es_CR.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.es_DO.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.es_EC.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.es_ES.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.es_ES_PREEURO.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.es_GT.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.es_HN.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.es_MX.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.es_NI.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.es_PA.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.es_PE.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.es_PR.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.es_PY.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.es_SV.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.es_US.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.es_UY.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.es_VE.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.es__TRADITIONAL.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.et.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.et_EE.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.eu.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.eu_ES.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.eu_ES_PREEURO.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.fa.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.fa_AF.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.fa_IR.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.fi.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.fi_FI.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.fi_FI_PREEURO.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.fo.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.fo_FO.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.fr.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.fr_BE.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.fr_BE_PREEURO.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.fr_CA.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.fr_CH.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.fr_FR.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.fr_FR_PREEURO.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.fr_LU.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.fr_LU_PREEURO.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ga.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ga_IE.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ga_IE_PREEURO.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.gl.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.gl_ES.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.gl_ES_PREEURO.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.gu.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.gu_IN.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.gv.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.gv_GB.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.he.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.he_IL.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.hi.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.hi_IN.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.hi__DIRECT.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.hr.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.hr_HR.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.hu.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.hu_HU.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.hy.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.hy_AM.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.hy_AM_REVISED.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.id.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.id_ID.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.is.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.is_IS.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.it.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.it_CH.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.it_IT.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.it_IT_PREEURO.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ja.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ja_JP.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ja_JP_TRADITIONAL.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.kk.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.kk_KZ.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.kl.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.kl_GL.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.kn.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.kn_IN.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ko.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.kok.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.kok_IN.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ko_KR.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.kw.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.kw_GB.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.lt.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.lt_LT.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.lv.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.lv_LV.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.mk.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.mk_MK.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.mr.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.mr_IN.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ms.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ms_BN.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ms_MY.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.mt.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.mt_MT.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.nb.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.nb_NO.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.nl.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.nl_BE.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.nl_BE_PREEURO.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.nl_NL.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.nl_NL_PREEURO.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.nn.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.nn_NO.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.om.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.om_ET.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.om_KE.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.pa.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.pa_IN.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.pl.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.pl_PL.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ps.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ps_AF.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.pt.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.pt_BR.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.pt_PT.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.pt_PT_PREEURO.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ro.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ro_RO.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ru.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ru_RU.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ru_UA.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.sh.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.sh_YU.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.sk.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.sk_SK.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.sl.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.sl_SI.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.so.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.so_DJ.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.so_ET.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.so_KE.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.so_SO.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.sq.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.sq_AL.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.sr.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.sr_YU.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.sv.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.sv_FI.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.sv_SE.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.sw.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.sw_KE.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.sw_TZ.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ta.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ta_IN.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.te.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.te_IN.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.th.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.th_TH.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.th_TH_TRADITIONAL.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ti.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ti_ER.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.ti_ET.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.tr.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.tr_TR.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.uk.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.uk_UA.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.vi.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.vi_VN.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.zh.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.zh_CN.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.zh_HK.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.zh_MO.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.zh_SG.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.zh_TW.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.zh_TW_STROKE.txt
+'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\LanguageNames2\DisplayLanguageNames.zh__PINYIN.txt
+'utf-8' codec can't decode byte 0xd2 in position 2: invalid continuation byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\Dictionaries\bg_BG\README_bg_BG.txt
+'utf-8' codec can't decode byte 0xf6 in position 9: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\Dictionaries\de_CH\README_de_CH_frami.txt
+'utf-8' codec can't decode byte 0xf6 in position 391: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\Dictionaries\de_CH\README_extension_owner.txt
+'utf-8' codec can't decode byte 0xf6 in position 8: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\Dictionaries\de_CH\1996\README_de_CH_igerman98.txt
+'utf-8' codec can't decode byte 0xf6 in position 258: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\Dictionaries\de_CH\1996\README_extension_owner.txt
+'utf-8' codec can't decode byte 0xf6 in position 9: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\Dictionaries\de_CH\2006\README_de_CH_frami.txt
+'utf-8' codec can't decode byte 0xf6 in position 391: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\Dictionaries\de_CH\2006\README_extension_owner.txt
+'utf-8' codec can't decode byte 0xf6 in position 9: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\Dictionaries\de_DE\README_de_DE_frami.txt
+'utf-8' codec can't decode byte 0xf6 in position 407: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\Dictionaries\de_DE\README_extension_owner.txt
+'utf-8' codec can't decode byte 0xf6 in position 8: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\Dictionaries\de_DE\1996\README_de_DE_igerman98.txt
+'utf-8' codec can't decode byte 0xf6 in position 258: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\Dictionaries\de_DE\1996\README_extension_owner.txt
+'utf-8' codec can't decode byte 0xf6 in position 9: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\Dictionaries\de_DE\2006\README_de_DE_frami.txt
+'utf-8' codec can't decode byte 0xf6 in position 407: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\Dictionaries\de_DE\2006\README_extension_owner.txt
+'utf-8' codec can't decode byte 0xe9 in position 1595: invalid continuation byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\Dictionaries\en_GB\README.txt
+'utf-8' codec can't decode byte 0xe0 in position 378: invalid continuation byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\Dictionaries\it_IT\README_it_IT.txt
+'utf-8' codec can't decode byte 0xf0 in position 8: invalid continuation byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\Dictionaries\lv_LV\README_lv_LV.txt
+'utf-8' codec can't decode byte 0xf5 in position 163: invalid start byte
+C://Program Files\Adobe\Adobe Photoshop 2022\Required\Linguistics\Providers\Plugins2\AdobeHunspellPlugin\Dictionaries\pt_PT\README_pt_PT.txt
+'utf-8' codec can't decode byte 0xae in position 6547: invalid start byte
+C://Program Files\Adobe\Adobe Premiere Pro CC 2019\End User License Agreement.txt
+'utf-8' codec can't decode byte 0xc1 in position 3: invalid start byte
+C://Program Files\AmneziaVPN\installerResources\org.amneziavpn.package\4.8.1.9AmneziaVPN.txt
